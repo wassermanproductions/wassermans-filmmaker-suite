@@ -38,13 +38,13 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 <tr>
 <td width="50%" align="center">
 
-<img src="assets/storyboard-logo.svg" alt="Storyboard Reference Studio" width="300" />
+<img src="https://raw.githubusercontent.com/wassermanproductions/unofficial-davinci-mcp/main/docs/images/logo.png" alt="Unofficial DaVinci MCP" width="300" />
 
-### [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio)
+### [Unofficial DaVinci MCP](https://github.com/wassermanproductions/unofficial-davinci-mcp)
 
-**Boards and prompts.** Ingest images or video, auto-board with scene detection, crop to your aspect, and export per-frame stills with generator-ready prompts (Midjourney, Flux, SDXL, and more).
+**Edit and finish.** Let any AI agent run DaVinci Resolve: beat-synced cuts from footage and a song, seamless music shortening, reference color matching with self-judging quality gates, transcript-driven dialogue tightening, captions, and broadcast-loudness QC. Works with Resolve Studio and the free edition.
 
-[Repo](https://github.com/wassermanproductions/storyboard-reference-studio) · [Download](https://github.com/wassermanproductions/storyboard-reference-studio/releases)
+[Repo](https://github.com/wassermanproductions/unofficial-davinci-mcp) · [Get started](https://github.com/wassermanproductions/unofficial-davinci-mcp#readme)
 
 </td>
 <td width="50%" align="center">
@@ -67,14 +67,16 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 
 1. **Blockout** — block the scene, choreograph camera and cast, export the motion reference.
 2. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
-3. **Storyboard Reference Studio** — turn references into boards and per-frame prompts for your image generator.
-4. **Stem Studio** — when the cut comes back, split temp mixes and delivered audio into clean stems.
+3. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
+4. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
 
 Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex, Hermes, or any MCP client can stage scenes, run analyses, and pull exports for you. See each repo's `mcp/README.md`.
 
 ## Platforms
 
-All four apps run on macOS (Apple Silicon). **Blockout also ships a native Windows 11 installer**, with Windows support for the rest of the suite merged and heading toward release.
+The desktop apps run on macOS (Apple Silicon); **Blockout also ships a native Windows 11 installer**, with Windows support for Motion Previs Studio and Stem Studio merged and heading toward release. The DaVinci MCP runs anywhere DaVinci Resolve does.
+
+*Also from Wasserman Productions: [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio) — turn references into boards and generator-ready prompts.*
 
 ---
 
