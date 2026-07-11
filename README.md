@@ -38,7 +38,7 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 <tr>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/wassermanproductions/storyboard-reference-studio/main/docs/images/hero.png" alt="Storyboard Reference Studio" width="380" />
+<img src="assets/storyboard-logo.svg" alt="Storyboard Reference Studio" width="300" />
 
 ### [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio)
 
@@ -49,7 +49,7 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/wassermanproductions/stem-studio/main/docs/screenshots/stems.png" alt="Stem Studio" width="380" />
+<img src="https://raw.githubusercontent.com/wassermanproductions/stem-studio/main/resources/logo.png" alt="Stem Studio" width="300" />
 
 ### [Stem Studio](https://github.com/wassermanproductions/stem-studio)
 

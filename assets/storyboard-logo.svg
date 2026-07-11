@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ffffff"/>
+  <g fill="none" stroke="#182742" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- panel 1 -->
+    <rect x="96" y="200" width="180" height="130" rx="10"/>
+    <!-- panel 3 -->
+    <rect x="524" y="200" width="180" height="130" rx="10"/>
+  </g>
+  <!-- sketch inside panel 1: horizon + sun -->
+  <g fill="none" stroke="#9aa7bd" stroke-width="6" stroke-linecap="round">
+    <path d="M112 302 L260 302"/>
+    <path d="M112 288 Q150 258 190 288"/>
+    <circle cx="236" cy="238" r="16"/>
+  </g>
+  <!-- sketch inside panel 3: motion arrow + figure -->
+  <g fill="none" stroke="#9aa7bd" stroke-width="6" stroke-linecap="round">
+    <circle cx="574" cy="240" r="12"/>
+    <path d="M574 252 L574 292 M574 264 L554 280 M574 264 L594 280 M574 292 L558 314 M574 292 L590 314"/>
+    <path d="M614 250 L672 250 M672 250 L658 240 M672 250 L658 260"/>
+  </g>
+  <!-- center panel, highlighted -->
+  <g fill="none" stroke="#0fa7a2" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="300" y="176" width="200" height="178" rx="12"/>
+  </g>
+  <!-- thirds grid in center panel -->
+  <g fill="none" stroke="#0fa7a2" stroke-width="4" opacity="0.55">
+    <path d="M366 176 L366 354 M434 176 L434 354"/>
+    <path d="M300 235 L500 235 M300 295 L500 295"/>
+  </g>
+  <!-- camera wedge in center panel -->
+  <g fill="#182742">
+    <path d="M383 252 L383 288 L411 288 L411 252 Z"/>
+    <path d="M411 258 L431 248 L431 292 L411 282 Z"/>
+  </g>
+  <!-- dashed sequence arc under panels -->
+  <g fill="none" stroke="#0fa7a2" stroke-width="7" stroke-dasharray="2 20" stroke-linecap="round">
+    <path d="M150 400 Q400 470 650 400"/>
+  </g>
+  <path d="M650 400 L622 402 M650 400 L630 420" fill="none" stroke="#0fa7a2" stroke-width="7" stroke-linecap="round"/>
+  <!-- wordmark -->
+  <text x="400" y="600" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="72" font-weight="600" letter-spacing="18" fill="#182742">STORYBOARD</text>
+  <text x="400" y="662" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="14" fill="#0fa7a2">REFERENCE STUDIO</text>
+</svg>
