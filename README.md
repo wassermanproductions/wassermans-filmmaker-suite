@@ -31,7 +31,7 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 
 **Motion capture from footage.** Turn any clip into usable previs data — pose extraction (OpenPose/ControlNet-ready), camera solve, depth — and hand the result straight to Blockout as a reference underlay.
 
-[Repo](https://github.com/wassermanproductions/motion-previs-studio) · [Download](https://github.com/wassermanproductions/motion-previs-studio/releases)
+[Repo](https://github.com/wassermanproductions/motion-previs-studio) · [Download](https://github.com/wassermanproductions/motion-previs-studio/releases) — macOS &amp; Windows 11
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ Plan the shot, match real motion, board the look, and split the sound. Each app 
 
 **Sound.** Split a married mix into sample-aligned dialogue, music, and effects stems — NLE-ready WAVs or a multitrack MOV — entirely on your machine.
 
-[Repo](https://github.com/wassermanproductions/stem-studio) · [Download](https://github.com/wassermanproductions/stem-studio/releases)
+[Repo](https://github.com/wassermanproductions/stem-studio) · [Download](https://github.com/wassermanproductions/stem-studio/releases) — macOS &amp; Windows 11
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex
 
 ## Platforms
 
-The desktop apps run on macOS (Apple Silicon); **Blockout also ships a native Windows 11 installer**, with Windows support for Motion Previs Studio and Stem Studio merged and heading toward release. The DaVinci MCP runs anywhere DaVinci Resolve does.
+The desktop apps run on macOS (Apple Silicon) and **all three ship native Windows 11 installers**. The DaVinci MCP runs anywhere DaVinci Resolve does.
 
 *Also from Wasserman Productions: [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio) — turn references into boards and generator-ready prompts.*
 
