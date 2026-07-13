@@ -76,7 +76,10 @@ Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex
 
 The desktop apps run on macOS (Apple Silicon) and **all three ship native Windows 11 installers**. The DaVinci MCP runs anywhere DaVinci Resolve does.
 
-*Also from Wasserman Productions: [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio) — turn references into boards and generator-ready prompts.*
+**Also from Wasserman Productions**
+
+- [Master Canvas](https://github.com/wassermanproductions/master-canvas) — local-first pre-production canvas for AI video: plan prompts, boards, and assets, then hand a complete package to your generator or on into the suite.
+- [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio) — turn references into boards and generator-ready prompts.
 
 ---
 
