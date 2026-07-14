@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Wasserman's Filmmaker Suite — or any of its apps (Blockout, Motion Previs Studio, Stem Studio, Unofficial DaVinci MCP) — in your work, please cite it and credit Sam Wasserman (wassermanproductions.com), per each project's NOTICE and license."
+title: "Wasserman's Filmmaker Suite"
+abstract: "Four desktop apps for AI-native filmmaking — Blockout (previs), Motion Previs Studio (motion reference), Stem Studio (stem separation), and the Unofficial DaVinci MCP (agent-driven editorial, color, and mix) — covering the previs-to-post loop around modern AI video generators."
+type: software
+authors:
+  - family-names: "Wasserman"
+    given-names: "Sam"
+    website: "https://wassermanproductions.com"
+url: "https://github.com/wassermanproductions/wassermans-filmmaker-suite"
+repository-code: "https://github.com/wassermanproductions/wassermans-filmmaker-suite"
+keywords:
+  - ai-filmmaking
+  - previs
+  - previsualization
+  - motion-reference
+  - stem-separation
+  - davinci-resolve
+  - virtual-production
