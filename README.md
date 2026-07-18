@@ -78,6 +78,7 @@ The desktop apps run on macOS (Apple Silicon) and **all three ship native Window
 
 **Also from Wasserman Productions**
 
+- [Cork Board](https://github.com/wassermanproductions/cork-board) — the digital cork board for filmmakers: index cards, acts, arcs, and episodes on a local-first planning wall, with outline, scene-list, and Fountain exports. macOS, Windows &amp; Linux.
 - [Master Canvas](https://github.com/wassermanproductions/master-canvas) — local-first pre-production canvas for AI video: plan prompts, boards, and assets, then hand a complete package to your generator or on into the suite.
 - [Storyboard Reference Studio](https://github.com/wassermanproductions/storyboard-reference-studio) — turn references into boards and generator-ready prompts.
 
