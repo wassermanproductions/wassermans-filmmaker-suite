@@ -17,6 +17,7 @@ fi
 
 APPS=(
   "ScriptBreak|scriptbreak|master"
+  "Cork Board|cork-board|main"
   "Master Canvas|master-canvas|main"
   "Blockout|blockout|main"
   "Motion Previs Studio|motion-previs-studio|main"

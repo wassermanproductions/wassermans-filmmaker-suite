@@ -2,9 +2,9 @@
 
 # Wasserman's Filmmaker Suite
 
-**Seven tools for AI-native filmmaking — from the script to the final mix.**
+**Eight tools for AI-native filmmaking — from the script to the final mix.**
 
-Break down the script, plan the picture, block the scene, match real motion, board the look, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
+Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
 
 </div>
 
@@ -25,17 +25,28 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 </td>
 <td width="50%" align="center">
 
+<img src="https://raw.githubusercontent.com/wassermanproductions/cork-board/main/docs/images/logo.png" alt="Cork Board" width="300" />
+
+### [Cork Board](https://github.com/wassermanproductions/cork-board)
+
+**Structure.** Pin scenes as index cards on a local-first wall, drag them between acts and arcs, tag characters and locations, and export the whole board as an outline, scene list, or Fountain scaffold. Works for a short, a music video, a feature, or a multi-episode series.
+
+[Repo](https://github.com/wassermanproductions/cork-board) · [Download](https://github.com/wassermanproductions/cork-board/releases) — macOS, Windows &amp; Linux
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
 <img src="https://raw.githubusercontent.com/wassermanproductions/master-canvas/main/docs/logo.png" alt="Master Canvas" width="300" />
 
 ### [Master Canvas](https://github.com/wassermanproductions/master-canvas)
 
 **Plan.** A local-first pre-production canvas for AI video — plan prompts, boards, and assets in one place, then hand a complete package to your generator or on into the suite.
 
-[Repo](https://github.com/wassermanproductions/master-canvas)
+[Repo](https://github.com/wassermanproductions/master-canvas) · [Download](https://github.com/wassermanproductions/master-canvas/releases)
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/blockout/main/docs/images/logo.png" alt="Blockout" width="300" />
@@ -47,6 +58,8 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 [Repo](https://github.com/wassermanproductions/blockout) · [Download](https://github.com/wassermanproductions/blockout/releases) — macOS &amp; Windows 11
 
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/motion-previs-studio/main/docs/logo.png" alt="Motion Previs Studio" width="300" />
@@ -58,8 +71,6 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 [Repo](https://github.com/wassermanproductions/motion-previs-studio) · [Download](https://github.com/wassermanproductions/motion-previs-studio/releases) — macOS &amp; Windows 11
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/storyboard-reference-studio/main/docs/images/logo.png" alt="Storyboard Reference Studio" width="300" />
@@ -71,6 +82,8 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 [Repo](https://github.com/wassermanproductions/storyboard-reference-studio)
 
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/stem-studio/main/resources/logo.png" alt="Stem Studio" width="300" />
@@ -82,9 +95,7 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 [Repo](https://github.com/wassermanproductions/stem-studio) · [Download](https://github.com/wassermanproductions/stem-studio/releases) — macOS &amp; Windows 11
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/unofficial-davinci-mcp/main/docs/images/logo.png" alt="Unofficial DaVinci MCP" width="300" />
 
@@ -102,35 +113,35 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 
 ## Install the whole suite (macOS)
 
-One line installs all six desktop apps — latest release of each, straight to `/Applications`:
+One line installs all seven desktop apps — latest release of each, straight to `/Applications`:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/wassermanproductions/wassermans-filmmaker-suite/main/install.sh | bash
 ```
 
-It installs ScriptBreak, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, and Stem Studio, and points you to the Unofficial DaVinci MCP readme to wire that one up. Each app also installs individually from its own repo.
+It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, and Stem Studio, and points you to the Unofficial DaVinci MCP readme to wire that one up. Each app also installs individually from its own repo.
 
 ---
 
 ## How they fit together
 
 1. **ScriptBreak** — break down the screenplay: scenes, elements, bibles, shot lists, prompt packs.
-2. **Master Canvas** — plan the picture: prompts, boards, and assets as one handoff package.
-3. **Blockout** — block the scene, choreograph camera and cast, export the motion reference.
-4. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
-5. **Storyboard Reference Studio** — turn references into boards, shot lists, animatics, and generator-ready prompts.
-6. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
-7. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
+2. **Cork Board** — structure the story on the wall: index cards across acts and arcs, exported as an outline, scene list, or Fountain scaffold.
+3. **Master Canvas** — plan the picture: prompts, boards, and assets as one handoff package.
+4. **Blockout** — block the scene, choreograph camera and cast, export the motion reference.
+5. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
+6. **Storyboard Reference Studio** — turn references into boards, shot lists, animatics, and generator-ready prompts.
+7. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
+8. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
 
 Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex, Hermes, or any MCP client can stage scenes, run analyses, and pull exports for you. See each repo's `mcp/README.md`.
 
 ## Platforms
 
-The desktop apps run on macOS (Apple Silicon); **Blockout, Motion Previs Studio, and Stem Studio also ship native Windows 11 installers**. The DaVinci MCP runs anywhere DaVinci Resolve does.
+The desktop apps run on macOS (Apple Silicon); **Blockout, Motion Previs Studio, and Stem Studio also ship native Windows 11 installers**, and **Cork Board runs on macOS, Windows, and Linux**. The DaVinci MCP runs anywhere DaVinci Resolve does.
 
 **Also from Wasserman Productions**
 
-- [Cork Board](https://github.com/wassermanproductions/cork-board) — the digital cork board for filmmakers: index cards, acts, arcs, and episodes on a local-first planning wall, with outline, scene-list, and Fountain exports. macOS, Windows &amp; Linux.
 - [Sam PDF Studio](https://github.com/wassermanproductions/sam-pdf-studio) — a native macOS PDF editor: edit text in place with matching fonts, annotate, merge, and sign.
 
 ---
