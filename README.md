@@ -100,6 +100,18 @@ Break down the script, plan the picture, block the scene, match real motion, boa
 
 ---
 
+## Install the whole suite (macOS)
+
+One line installs all six desktop apps — latest release of each, straight to `/Applications`:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/wassermanproductions/wassermans-filmmaker-suite/main/install.sh | bash
+```
+
+It installs ScriptBreak, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, and Stem Studio, and points you to the Unofficial DaVinci MCP readme to wire that one up. Each app also installs individually from its own repo.
+
+---
+
 ## How they fit together
 
 1. **ScriptBreak** — break down the screenplay: scenes, elements, bibles, shot lists, prompt packs.
