@@ -6,6 +6,12 @@
 
 Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
 
+<p align="center">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
+  <img src="https://img.shields.io/badge/platforms-macOS%20·%20Windows%20·%20Linux-2f7bf6" alt="Platforms">
+  <a href="https://ko-fi.com/samwasserman"><img src="https://img.shields.io/badge/Ko--fi-support%20Sam%20Wasserman-ff5e5b?logo=kofi&logoColor=white" alt="Support Sam Wasserman on Ko-fi"></a>
+</p>
+
 </div>
 
 ---
