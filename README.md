@@ -132,7 +132,7 @@ Break down the script, structure the story, plan the picture, block the scene, m
 
 ## Install the whole suite (macOS)
 
-One line installs all eight desktop apps — latest release of each, straight to `/Applications`:
+One line installs the whole nine-tool suite — the latest release of every desktop app, straight to `/Applications`:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/wassermanproductions/wassermans-filmmaker-suite/main/install.sh | bash
