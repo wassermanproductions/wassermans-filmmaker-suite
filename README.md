@@ -2,9 +2,9 @@
 
 # Wasserman's Filmmaker Suite
 
-**Eight tools for AI-native filmmaking — from the script to the final mix.**
+**Nine tools for AI-native filmmaking — from the script to the final mix.**
 
-Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
+Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, circle the takes, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
 
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
@@ -92,6 +92,17 @@ Break down the script, structure the story, plan the picture, block the scene, m
 <tr>
 <td width="50%" align="center">
 
+<img src="https://raw.githubusercontent.com/wassermanproductions/circle-take/main/docs/images/logo.png" alt="Circle Take" width="300" />
+
+### [Circle Take](https://github.com/wassermanproductions/circle-take)
+
+**Dailies.** Every generated take, organized by shot and gated by local AI quality checks — identity drift, flicker, broken hands, color continuity. Compare, circle the winners, print selects to your editor, and get a reshoot list carrying the exact prompt and seed for everything that failed.
+
+[Repo](https://github.com/wassermanproductions/circle-take) · [Download](https://github.com/wassermanproductions/circle-take/releases) — macOS
+
+</td>
+<td width="50%" align="center">
+
 <img src="https://raw.githubusercontent.com/wassermanproductions/stem-studio/main/resources/logo.png" alt="Stem Studio" width="300" />
 
 ### [Stem Studio](https://github.com/wassermanproductions/stem-studio)
@@ -101,7 +112,9 @@ Break down the script, structure the story, plan the picture, block the scene, m
 [Repo](https://github.com/wassermanproductions/stem-studio) · [Download](https://github.com/wassermanproductions/stem-studio/releases) — macOS &amp; Windows 11
 
 </td>
-<td width="50%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center" colspan="2">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/unofficial-davinci-mcp/main/docs/images/logo.png" alt="Unofficial DaVinci MCP" width="300" />
 
@@ -119,13 +132,13 @@ Break down the script, structure the story, plan the picture, block the scene, m
 
 ## Install the whole suite (macOS)
 
-One line installs all seven desktop apps — latest release of each, straight to `/Applications`:
+One line installs all eight desktop apps — latest release of each, straight to `/Applications`:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/wassermanproductions/wassermans-filmmaker-suite/main/install.sh | bash
 ```
 
-It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, and Stem Studio, and points you to the Unofficial DaVinci MCP readme to wire that one up. Each app also installs individually from its own repo.
+It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, and Stem Studio, and points you to the Unofficial DaVinci MCP readme to wire that one up. Each app also installs individually from its own repo.
 
 ---
 
@@ -137,8 +150,9 @@ It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Stud
 4. **Blockout** — block the scene, choreograph camera and cast, export the motion reference.
 5. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
 6. **Storyboard Reference Studio** — turn references into boards, shot lists, animatics, and generator-ready prompts.
-7. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
-8. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
+7. **Circle Take** — review the generated takes: local quality gates, side-by-side compare, circled selects, and reshoot lists with the exact prompts.
+8. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
+9. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
 
 Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex, Hermes, or any MCP client can stage scenes, run analyses, and pull exports for you. See each repo's `mcp/README.md`.
 

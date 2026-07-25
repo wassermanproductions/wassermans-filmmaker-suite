@@ -22,6 +22,7 @@ APPS=(
   "Blockout|blockout|main"
   "Motion Previs Studio|motion-previs-studio|main"
   "Storyboard Reference Studio|storyboard-reference-studio|main"
+  "Circle Take|circle-take|main"
   "Stem Studio|stem-studio|main"
 )
 
