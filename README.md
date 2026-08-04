@@ -2,9 +2,9 @@
 
 # Wasserman's Filmmaker Suite
 
-**Nine tools for AI-native filmmaking — from the script to the final mix.**
+**Ten tools for AI-native filmmaking — from the script to the final mix.**
 
-Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, circle the takes, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
+Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, craft every prompt, circle the takes, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
 
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
@@ -114,7 +114,18 @@ Break down the script, structure the story, plan the picture, block the scene, m
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" colspan="2">
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/wassermanproductions/slate/main/docs/images/logo.png" alt="Slate" width="300" />
+
+### [Slate](https://github.com/wassermanproductions/slate)
+
+**Prompt.** The prompt studio for AI filmmaking — plan shots scene by scene, keep characters, locations, and look locked across the film, direct coverage, music, and voices with a local AI brain (your own Claude Code or Codex sign-in, no API keys), then compile production-ready prompts for any video, image, music, or voice generator. MCP built in.
+
+[Repo](https://github.com/wassermanproductions/slate) · [Download](https://github.com/wassermanproductions/slate/releases) — macOS
+
+</td>
+<td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/wassermanproductions/unofficial-davinci-mcp/main/docs/images/logo.png" alt="Unofficial DaVinci MCP" width="300" />
 
