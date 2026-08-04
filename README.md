@@ -120,7 +120,7 @@ Break down the script, structure the story, plan the picture, block the scene, m
 
 ### [Slate](https://github.com/wassermanproductions/slate)
 
-**Prompt.** The prompt studio for AI filmmaking — plan shots scene by scene, keep characters, locations, and look locked across the film, direct coverage, music, and voices with a local AI brain (your own Claude Code or Codex sign-in, no API keys), then compile production-ready prompts for any video, image, music, or voice generator. MCP built in.
+**Prompt.** The prompt studio for AI filmmaking — plan shots scene by scene, keep characters, locations, and look locked across the film, direct coverage, music, and voices with a local AI brain (your own Claude Code or Codex sign-in — or any local model via Ollama, LM Studio, vLLM…, no API keys), then compile production-ready prompts for any video, image, music, or voice generator. MCP built in.
 
 [Repo](https://github.com/wassermanproductions/slate) · [Download](https://github.com/wassermanproductions/slate/releases) — macOS
 
