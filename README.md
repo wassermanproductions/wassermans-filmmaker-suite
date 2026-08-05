@@ -137,6 +137,21 @@ Break down the script, structure the story, plan the picture, block the scene, m
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/wassermanproductions/call-sheet/main/docs/images/logo.png" alt="Call Sheet" width="300" />
+
+### [Call Sheet](https://github.com/wassermanproductions/call-sheet)
+
+**Run the lot.** Mission control for the whole suite from your menu bar — every app with its icon, version, and one-click launch, hourly update watch against GitHub releases, and your recent projects across Slate, ScriptBreak, and Circle Take merged newest-first.
+
+[Repo](https://github.com/wassermanproductions/call-sheet) · [Download](https://github.com/wassermanproductions/call-sheet/releases) — macOS
+
+</td>
+<td width="50%" align="center">
+</td>
+</tr>
 </table>
 
 ---
