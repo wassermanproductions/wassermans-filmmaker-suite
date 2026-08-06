@@ -176,9 +176,12 @@ It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Stud
 4. **Blockout** — block the scene, choreograph camera and cast, export the motion reference.
 5. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
 6. **Storyboard Reference Studio** — turn references into boards, shot lists, animatics, and generator-ready prompts.
-7. **Circle Take** — review the generated takes: local quality gates, side-by-side compare, circled selects, and reshoot lists with the exact prompts.
-8. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
-9. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
+7. **Slate** — turn the plan into continuity-locked, production-ready prompts for video, image, music, and voice generators, with local AI assistance and MCP handoffs.
+8. **Circle Take** — review the generated takes: local quality gates, side-by-side compare, circled selects, and reshoot lists with the exact prompts.
+9. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
+10. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
+
+**Across the whole workflow: Call Sheet** keeps the suite together from the macOS menu bar — launch every app, see installed versions and available updates, download missing tools, and jump back into recent Slate, ScriptBreak, and Circle Take projects.
 
 Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex, Hermes, or any MCP client can stage scenes, run analyses, and pull exports for you. See each repo's `mcp/README.md`.
 
