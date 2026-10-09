@@ -2,7 +2,7 @@
 
 # Wasserman's Filmmaker Suite
 
-**Ten tools for AI-native filmmaking — from the script to the final mix.**
+**Ten tools and an 80s Horror LoRA for AI-native filmmaking — from the script to the final mix.**
 
 Break down the script, structure the story, plan the picture, block the scene, match real motion, board the look, craft every prompt, circle the takes, split the sound, and finish the cut. Each app stands alone; together they cover the whole script-to-post loop around modern video generators.
 
