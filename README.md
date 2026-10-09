@@ -150,6 +150,15 @@ Break down the script, structure the story, plan the picture, block the scene, m
 
 </td>
 <td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/wassermanproductions/wasserman-80s-horror-lora/main/docs/images/banner.png" alt="Wasserman's 80s Horror LoRA" width="300" />
+
+### [Wasserman's 80s Horror LoRA](https://github.com/wassermanproductions/wasserman-80s-horror-lora)
+
+**Generate.** A style LoRA for the MiniMax H3 video model: start any prompt with `80s_horror_wk` and get a 1970s–80s horror look, VHS or grindhouse 16mm, with practical neon and period sets. One-line ComfyUI installers and ready-made workflows. Works with standard or uncensored H3.
+
+[Repo](https://github.com/wassermanproductions/wasserman-80s-horror-lora) · [Download](https://github.com/wassermanproductions/wasserman-80s-horror-lora/releases) — ComfyUI on macOS, Windows &amp; Linux
+
 </td>
 </tr>
 </table>
@@ -177,9 +186,10 @@ It installs ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Stud
 5. **Motion Previs Studio** — pull real motion and camera moves from footage; send references into Blockout.
 6. **Storyboard Reference Studio** — turn references into boards, shot lists, animatics, and generator-ready prompts.
 7. **Slate** — turn the plan into continuity-locked, production-ready prompts for video, image, music, and voice generators, with local AI assistance and MCP handoffs.
-8. **Circle Take** — review the generated takes: local quality gates, side-by-side compare, circled selects, and reshoot lists with the exact prompts.
-9. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
-10. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
+8. **Wasserman's 80s Horror LoRA** — generate the shot in MiniMax H3 with a 1970s–80s horror look, VHS or 16mm, from one trigger word.
+9. **Circle Take** — review the generated takes: local quality gates, side-by-side compare, circled selects, and reshoot lists with the exact prompts.
+10. **Stem Studio** — split temp mixes and delivered audio into clean dialogue / music / effects stems.
+11. **Unofficial DaVinci MCP** — assemble, cut to the beat, match color, and QC the mix in DaVinci Resolve, agent-driven end to end.
 
 **Across the whole workflow: Call Sheet** keeps the suite together from the macOS menu bar — launch every app, see installed versions and available updates, download missing tools, and jump back into recent Slate, ScriptBreak, and Circle Take projects.
 
@@ -187,7 +197,7 @@ Every app is **agent-drivable**: each ships an MCP server, so Claude Code, Codex
 
 ## Platforms
 
-The desktop apps run on macOS (Apple Silicon); **Blockout, Motion Previs Studio, and Stem Studio also ship native Windows 11 installers**, and **Cork Board runs on macOS, Windows, and Linux**. The DaVinci MCP runs anywhere DaVinci Resolve does.
+The desktop apps run on macOS (Apple Silicon); **Blockout, Motion Previs Studio, and Stem Studio also ship native Windows 11 installers**, and **Cork Board runs on macOS, Windows, and Linux**. The DaVinci MCP runs anywhere DaVinci Resolve does. The 80s Horror LoRA runs in ComfyUI anywhere MiniMax H3 does.
 
 **Also from Wasserman Productions**
 
